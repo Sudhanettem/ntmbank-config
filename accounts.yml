@@ -1,0 +1,12 @@
+build:
+  version: 1.0
+
+accounts:
+  message: "contact info of Account service"
+  contactDetails:
+    name: "suresh_dev_team"
+    email: "sur@example.com"
+  onCallSupport:
+    - (456)789-1111
+    - (543)210-4444
+    - (543)210-4444

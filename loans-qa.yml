@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+loans:
+  name: "loans details for qa contact info"
+  contactDetails:
+     name: sudha_qa
+     email: s.qa@example.com
+  onCallSupport:
+     - (555)549-4986
+     - (555)549-6672

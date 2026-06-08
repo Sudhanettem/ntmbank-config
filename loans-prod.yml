@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+loans:
+  name: "loans details for prod contact info"
+  contactDetails:
+    name: sudha_prod
+    email: s.prod@example.com
+  onCallSupport:
+    - (555)549-4986
+    - (555)549-6672

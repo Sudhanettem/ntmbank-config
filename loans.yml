@@ -1,0 +1,13 @@
+build:
+  version: 1.0
+
+loans:
+  name: "loans details contact info"
+  contactDetails:
+    name: sudha
+    email: s@example.com
+  onCallSupport:
+    - (555)549-4986
+    - (555)549-6672
+
+

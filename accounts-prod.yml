@@ -1,0 +1,11 @@
+build:
+  version: 1.2
+
+accounts:
+  message: "contact info of Account_prod service"
+  contactDetails:
+    name: "suresh_prod_team"
+    email: "sur.prod@example.com"
+  onCallSupport:
+    - (456)789-1113
+    - (543)210-4443
