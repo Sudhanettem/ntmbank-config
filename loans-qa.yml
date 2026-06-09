@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 loans:
-  name: "loans details for qa contact info"
+  name: "loans details for UAT contact info"
   contactDetails:
      name: sudha_qa
      email: s.qa@example.com
