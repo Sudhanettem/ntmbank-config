@@ -3,6 +3,7 @@ build:
 
 loans:
   name: "loans details for UAT contact info"
+  message: "contact info of loans_UAT service"
   contactDetails:
      name: sudha_qa
      email: s.qa@example.com
