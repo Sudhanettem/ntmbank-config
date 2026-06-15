@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 loans:
-  name: "loans details for prod_webhook contact info"
+  name: "loans details for prod_origin contact info"
   contactDetails:
     name: sudha_prod
     email: s.prod@example.com
