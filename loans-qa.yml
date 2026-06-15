@@ -3,7 +3,7 @@ build:
 
 loans:
   name: "loans details for UAT_webhook_enabled contact info"
-  message: "contact info of loans_UAT service"
+  message: "contact info of loans_UAT_origin service"
   contactDetails:
      name: sudha_qa
      email: s.qa@example.com
