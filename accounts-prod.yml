@@ -2,7 +2,7 @@ build:
   version: 1.2
 
 accounts:
-  message: "contact information Account_production service"
+  message: "contact information Account_weebhook_prod service"
   contactDetails:
     name: "suresh_prod_team"
     email: "sur.prod@example.com"
