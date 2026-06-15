@@ -2,7 +2,7 @@ build:
   version: 1.2
 
 accounts:
-  message: "contact information Accountw_prod service"
+  message: "contact information Account_dept_prod service"
   contactDetails:
     name: "suresh_prod_team"
     email: "sur.prod@example.com"
