@@ -2,9 +2,9 @@ build:
   version: 1.2
 
 accounts:
-  message: "contact information Account_dept_prod_V2 service"
+  message: "contact information Account_dept_prod_V3 service"
   contactDetails:
-    name: "suresh_prod_team"
+    name: "suresh_prod_V3_team"
     email: "sur.prod@example.com"
   onCallSupport:
     - (456)789-1113
