@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "contact info of Account service - default"
+  message: "contact info of Account service - default:v6"
   contactDetails:
     name: "suresh_dev_team"
     email: "sur@example.com"
